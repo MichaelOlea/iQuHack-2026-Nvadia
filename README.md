@@ -11,10 +11,13 @@ In modern R&D and this challenge, speed matters, but rigor and coordination matt
 
 **Milestones and Evaluation**
 
-This challenge is divided into four milestones, all of which are graded components of your final submission:
+This challenge is divided into two phases and four milestones, all of which are graded components of your final submission:
 
+Phase 1 Milestones:
 1. Ramp Up: Master the state-of-the-art for LABS via a scaffolded tutorial.
 2. Research & Plan: Perform due diligence to design a custom quantum strategy and acceleration plan.
+
+Phase 2 Milestones:
 3. Build: Validate your algorithm on a CPU in qbraid, then migrate to Brev.dev to deploy full GPU acceleration.
 4. Showcase and Retrospective: Present your solution, performance metrics, and your AI-driven workflow.
 
